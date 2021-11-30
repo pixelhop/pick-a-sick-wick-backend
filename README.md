@@ -22,15 +22,5 @@ npm install
 Start the development server on http://localhost:3000
 
 ```bash
-npm dev
+npm develop
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
